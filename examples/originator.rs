@@ -1,7 +1,7 @@
 use intistelecom_rs::{
-    client::client::Client,
+    client::Client,
     model::originator::BaseOriginator,
-    originator::originator::{all, create, delete, set_default},
+    originator::{all, create, delete, set_default},
 };
 
 fn main() {

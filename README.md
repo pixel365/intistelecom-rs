@@ -8,8 +8,8 @@
 
 ```bash
 use intistelecom_rs::{
-    client::client::Client,
-    message::message::send,
+    client::Client,
+    message::send,
     model::message::MessageBody,
 };
 

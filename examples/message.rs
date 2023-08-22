@@ -1,6 +1,6 @@
 use intistelecom_rs::{
-    client::client::Client,
-    message::message::{batch, cancel, send, status, status_of_part},
+    client::Client,
+    message::{batch, cancel, send, status, status_of_part},
     model::message::{MessageBody, MessageId, PartId},
 };
 

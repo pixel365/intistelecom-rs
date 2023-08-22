@@ -1,6 +1,6 @@
 use intistelecom_rs::{
-    client::client::Client,
-    user::user::{balance, me},
+    client::Client,
+    user::{balance, me},
 };
 
 fn main() {

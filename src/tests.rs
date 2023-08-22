@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod tests{
-    use crate::{client::client::{Client, Requests}, message::message::send, model::message::MessageBody};
+    use crate::{client::{Client, Requests}, message::send, model::message::MessageBody};
 
     #[test]
     fn test_client(){

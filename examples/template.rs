@@ -1,7 +1,7 @@
 use intistelecom_rs::{
-    client::client::Client,
+    client::Client,
     model::template::BaseTemplate,
-    template::template::{all, create, delete, edit},
+    template::{all, create, delete, edit},
 };
 
 fn main() {
